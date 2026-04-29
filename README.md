@@ -10,6 +10,7 @@
 - 💬 Ask me about **geopolitics, space, spirituality, movie, tech, environment, future and history.**
 
 - 📫 How to reach me **sumanjanaled@gmail.com**
+-  portfolio: <a href=https://www.sumanlabs.in> https://www.sumanlabs.in </a>
 
 - ⚡ Fun fact **we are not just some techy guys, this is a only part. Who are you?🤔🙂**
 
