@@ -25,6 +25,4 @@
   <a href="https://www.sumanlabs.in/blog/managing-50-plus-tools-ai-agent-token-optimization" target="_blank">⚡ Managing 50+ Tools: AI Agent Token Optimization</a> •
   <a href="https://www.sumanlabs.in/projects/classpilot" target="_blank">🎓 ClassPilot Project</a>
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rocker1166&" alt="rocker1166" />
-</p>
+
