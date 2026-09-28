@@ -2,7 +2,7 @@
 
 *A simple human being with a bunch of tech experience, from Earth.*
 
-- **Currently:** Lead Developer at **DynoWeb** (Remote, Dubai). I build website analytics, AI agent systems and automation tools, and take the core infrastructure from plan to production.
+- **Currently:** Lead Developer at **DynoWeb** (Remote ). I build website analytics, AI agent systems and automation tools, and take the core infrastructure from plan to production.
 - **Co-founder:** [LastMinuteEngineering](https://lastminuteengineering.vercel.app/), an AI learning platform for students (AI notes, topic-matched videos, custom practice sets).
 - **Previously:**
   - Full Stack Developer at **Fluxmap** (Dubai): shipped frontend, backend and CI/CD, and cleaned up 90K PII records in production with zero downtime.
